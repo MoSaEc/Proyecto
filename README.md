@@ -1,4 +1,4 @@
-# Proyecto.github.io
+# Proyecto
 # Lista de Tareas
 
 ## Descripción del Proyecto
